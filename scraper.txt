@@ -1,0 +1,21 @@
+import os
+import glob
+import tarfile
+import json
+import urllib
+
+DEBUG = True
+
+def getWebsiteInfo(domain: str):
+    url = f'https://www.similarweb.com/website/{domain}/#overview'
+    if DEBUG:
+        print(url)
+    page = urllib.request.urlopen(url)
+    if DEBUG:
+        print(page.read())
+        # <dd class="data-company-info__list-item data-company-info__list-item--value">United States, California, San Bruno</dd>
+        # <dd class="data-company-info__list-item data-company-info__list-item--value"><a class="data-company-info__link" href="/top-websites/category/arts-and-entertainment/tv-movies-and-streaming/">Arts &amp; Entertainment &gt; TV Movies and Streaming</a></dd>
+
+    
+
+    #<dl class="data-company-info__list"><div class="data-company-info__row"><dt class="data-company-info__list-item data-company-info__list-item--title">Company</dt><dd class="data-company-info__list-item data-company-info__list-item--value">126.com</dd></div><div class="data-company-info__row"><dt class="data-company-info__list-item data-company-info__list-item--title">Year Founded</dt><dd class="data-company-info__list-item data-company-info__list-item--value">2011</dd></div><div class="data-company-info__row"><dt class="data-company-info__list-item data-company-info__list-item--title">Employees</dt><dd class="data-company-info__list-item data-company-info__list-item--value">1001 - 5000</dd></div><div class="data-company-info__row"><dt class="data-company-info__list-item data-company-info__list-item--title">HQ</dt><dd class="data-company-info__list-item data-company-info__list-item--value">China, Guangdong</dd></div><div class="data-company-info__row"><dt class="data-company-info__list-item data-company-info__list-item--title">Annual Revenue</dt><dd class="data-company-info__list-item data-company-info__list-item--value">$100.0M - $200.0M</dd></div><div class="data-company-info__row"><dt class="data-company-info__list-item data-company-info__list-item--title">Industry</dt><dd class="data-company-info__list-item data-company-info__list-item--value"><a class="data-company-info__link" href="/top-websites/category/computers-electronics-and-technology/email/">Computers Electronics and Technology &gt; Email</a></dd></div></dl>
