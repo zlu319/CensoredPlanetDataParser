@@ -1,0 +1,112 @@
+{
+  "anonnews.org": [
+    "HACK",
+    "23.200.237.225",
+    "US"
+  ],
+  "archive.is": [
+    "HOST",
+    "5.61.62.148",
+    "DE"
+  ],
+  "coronavirus-map.com": [
+    "PUBH",
+    "23.202.231.169",
+    "US"
+  ],
+  "dailystormer.su": [
+    "other",
+    "23.200.237.225",
+    "US"
+  ],
+  "delicious.com": [
+    "MMED",
+    "198.251.90.72",
+    "US"
+  ],
+  "indeed.com": [
+    "other",
+    "18.216.114.70",
+    "US"
+  ],
+  "livejournal.com": [
+    "NEWS",
+    "13.88.179.33",
+    "US"
+  ],
+  "mail.yahoo.com": [
+    "COMT",
+    "69.147.65.251",
+    "US"
+  ],
+  "mitm.watch": [
+    "other",
+    "54.241.85.96",
+    "US"
+  ],
+  "savefrom.net": [
+    "FILE",
+    "51.159.71.133",
+    "FR"
+  ],
+  "search.privacytools.io": [
+    "SRCH",
+    "207.251.194.54",
+    "US"
+  ],
+  "mastodon.host": [
+    "GRP",
+    "54.241.85.96",
+    "US"
+  ],
+  "www.cannabis.info": [
+    "ALDR",
+    "23.202.231.169",
+    "US"
+  ],
+  "www.kurtuluscephesi.com": [
+    "MILX",
+    "192.157.56.140",
+    "CA"
+  ],
+  "www.metacrawler.com": [
+    "SRCH",
+    "54.81.189.88",
+    "US"
+  ],
+  "www.nazi-lauck-nsdapao.com": [
+    "HATE",
+    "23.202.231.169",
+    "US"
+  ],
+  "www.fgmnetwork.org": [
+    "PUBH",
+    "54.241.85.96",
+    "US"
+  ],
+  "www.phenoelit.org": [
+    "HACK",
+    "198.105.244.26",
+    "US"
+  ],
+  "www.mnr.gov.cn": [
+    "GOVT",
+    "157.185.170.144",
+    "US"
+  ],
+  "www.volcanomail.com": [
+    "COMT",
+    "23.221.222.250",
+    "US"
+  ],
+  "nsfc.gov.cn": [
+    "other",
+    "210.75.240.5",
+    "CN"
+  ],
+  "sberbank.ru": [
+    "other",
+    "194.54.14.168",
+    "RU"
+  ]
+}
