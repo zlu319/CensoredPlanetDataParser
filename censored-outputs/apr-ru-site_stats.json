@@ -1,0 +1,827 @@
+{
+  "1337x.to": [
+    "MMED",
+    "62.33.207.196",
+    "RU"
+  ],
+  "anonnews.org": [
+    "HACK",
+    "159.255.26.69",
+    "RU"
+  ],
+  "api.protonvpn.ch": [
+    "ANON",
+    "18.196.141.115",
+    "DE"
+  ],
+  "bbc.com": [
+    "other",
+    "151.101.0.81",
+    "US"
+  ],
+  "beeg.com": [
+    "PORN",
+    "104.21.32.25",
+    "US"
+  ],
+  "bitbucket.org": [
+    "HOST",
+    "18.234.32.156",
+    "US"
+  ],
+  "ca.gov": [
+    "other",
+    "13.87.221.220",
+    "US"
+  ],
+  "chaturbate.com": [
+    "PORN",
+    "188.114.99.128",
+    "US"
+  ],
+  "company.wizards.com": [
+    "GAME",
+    "23.37.59.47",
+    "NL"
+  ],
+  "dailystormer.name": [
+    "POLR",
+    "94.103.81.80",
+    "RU"
+  ],
+  "delicious.com": [
+    "MMED",
+    "159.255.26.69",
+    "RU"
+  ],
+  "doh.dns.sb": [
+    "HOST",
+    "23.105.231.66",
+    "RU"
+  ],
+  "edge-chat.instagram.com": [
+    "GRP",
+    "157.240.205.63",
+    "US"
+  ],
+  "elpais.com": [
+    "NEWS",
+    "184.31.15.161",
+    "US"
+  ],
+  "external.xx.fbcdn.net": [
+    "GRP",
+    "157.240.194.27",
+    "US"
+  ],
+  "facebook.com": [
+    "NEWS",
+    "157.240.205.35",
+    "US"
+  ],
+  "fast.com": [
+    "other",
+    "23.0.43.80",
+    "NL"
+  ],
+  "fbcdn.net": [
+    "GRP",
+    "157.240.205.35",
+    "US"
+  ],
+  "fidelity.com": [
+    "other",
+    "184.31.15.235",
+    "US"
+  ],
+  "foxnews.com": [
+    "other",
+    "104.78.177.82",
+    "US"
+  ],
+  "i.instagram.com": [
+    "GRP",
+    "31.13.72.53",
+    "IE"
+  ],
+  "indeed.com": [
+    "other",
+    "169.47.19.136",
+    "US"
+  ],
+  "indiamart.com": [
+    "other",
+    "100.24.128.80",
+    "US"
+  ],
+  "indianexpress.com": [
+    "NEWS",
+    "2.23.142.147",
+    null
+  ],
+  "instagram.com": [
+    "other",
+    "157.240.205.174",
+    "US"
+  ],
+  "int.soccerway.com": [
+    "CULTR",
+    "2.22.0.186",
+    null
+  ],
+  "intuit.com": [
+    "other",
+    "96.17.5.81",
+    "US"
+  ],
+  "linkedin.com": [
+    "other",
+    "195.208.152.206",
+    "RU"
+  ],
+  "livejournal.com": [
+    "NEWS",
+    "81.19.74.2",
+    "RU"
+  ],
+  "mailchimp.com": [
+    "other",
+    "23.14.15.99",
+    "NL"
+  ],
+  "mail.yahoo.com": [
+    "COMT",
+    "87.248.119.251",
+    "GB"
+  ],
+  "mastodon.host": [
+    "GRP",
+    "0.0.0.0",
+    "EMPT"
+  ],
+  "messenger.com": [
+    "other",
+    "157.240.194.18",
+    "US"
+  ],
+  "moneycontrol.com": [
+    "other",
+    "185.5.160.146",
+    "RU"
+  ],
+  "nhentai.net": [
+    "PORN",
+    "188.114.97.128",
+    "US"
+  ],
+  "ocsp.int-x3.letsencrypt.org": [
+    "HOST",
+    "23.196.236.32",
+    "US"
+  ],
+  "oea.gov": [
+    "other",
+    "96.127.32.250",
+    "US"
+  ],
+  "onfckepwq.com": [
+    "other",
+    "216.21.13.14",
+    "US"
+  ],
+  "protonmail.com": [
+    "COMT",
+    "52.57.209.70",
+    "DE"
+  ],
+  "qibla.com": [
+    "REL",
+    "185.53.177.50",
+    "DE"
+  ],
+  "scontent-ams4-1.cdninstagram.com": [
+    "GRP",
+    "157.240.201.63",
+    "US"
+  ],
+  "scontent.xx.fbcdn.net": [
+    "GRP",
+    "157.240.205.11",
+    "US"
+  ],
+  "search.aol.com": [
+    "SRCH",
+    "212.82.100.137",
+    "CH"
+  ],
+  "search.privacytools.io": [
+    "SRCH",
+    "0.0.0.0",
+    "EMPT"
+  ],
+  "secondlife.com": [
+    "GRP",
+    "87.245.200.18",
+    "RU"
+  ],
+  "secure.proxpn.com": [
+    "ANON",
+    "3.211.209.121",
+    "US"
+  ],
+  "s.pinimg.com": [
+    "GRP",
+    "92.122.108.253",
+    null
+  ],
+  "staticxx.facebook.com": [
+    "GRP",
+    "157.240.205.11",
+    "US"
+  ],
+  "static.xx.fbcdn.net": [
+    "GRP",
+    "157.240.205.11",
+    "US"
+  ],
+  "steampowered.com": [
+    "other",
+    "104.66.119.117",
+    "NL"
+  ],
+  "store.steampowered.com": [
+    "GAME",
+    "95.100.189.87",
+    null
+  ],
+  "timesofindia.indiatimes.com": [
+    "NEWS",
+    "184.51.133.232",
+    "US"
+  ],
+  "tnaflix.com": [
+    "PORN",
+    "77.247.179.166",
+    "NL"
+  ],
+  "tvants.uptodown.com": [
+    "HACK",
+    "95.100.15.103",
+    null
+  ],
+  "twitter.com": [
+    "POLR",
+    "104.244.42.129",
+    "US"
+  ],
+  "upload.twitter.com": [
+    "GRP",
+    "104.244.42.11",
+    "US"
+  ],
+  "worldofwarcraft.com": [
+    "GAME",
+    "34.248.79.42",
+    "IE"
+  ],
+  "www.3wishes.com": [
+    "PROV",
+    "35.82.184.125",
+    "US"
+  ],
+  "www.888casino.com": [
+    "GMB",
+    "52.85.47.17",
+    "US"
+  ],
+  "www.af.mil": [
+    "GOVT",
+    "184.85.154.19",
+    "US"
+  ],
+  "www.afrc.af.mil": [
+    "other",
+    "184.85.152.247",
+    "US"
+  ],
+  "www.armfor.uscourts.gov": [
+    "other",
+    "139.45.207.16",
+    null
+  ],
+  "www.army.mil": [
+    "GOVT",
+    "139.45.207.11",
+    null
+  ],
+  "www.betfair.com": [
+    "GMB",
+    "104.16.117.30",
+    "US"
+  ],
+  "www.blackberry.com": [
+    "MMED",
+    "13.32.111.29",
+    "US"
+  ],
+  "www.blizzard.com": [
+    "GAME",
+    "34.252.127.127",
+    "IE"
+  ],
+  "www.bpa.gov": [
+    "other",
+    "20.42.128.100",
+    "US"
+  ],
+  "www.bravoporn.com": [
+    "PORN",
+    "88.208.55.199",
+    "NL"
+  ],
+  "www.cannabis.info": [
+    "ALDR",
+    "193.58.251.11",
+    "RU"
+  ],
+  "www.carnivalcasino.com": [
+    "GMB",
+    "207.154.224.200",
+    "DE"
+  ],
+  "www.casinotropez.com": [
+    "GMB",
+    "139.45.207.42",
+    null
+  ],
+  "www.cbc.ca": [
+    "NEWS",
+    "184.51.132.204",
+    "US"
+  ],
+  "www.centcom.mil": [
+    "GOVT",
+    "139.45.207.81",
+    null
+  ],
+  "www.cffc.navy.mil": [
+    "other",
+    "178.49.139.195",
+    "RU"
+  ],
+  "www.counter-strike.net": [
+    "GAME",
+    "2.22.39.2",
+    null
+  ],
+  "www.darpa.mil": [
+    "GOVT",
+    "96.17.6.20",
+    "US"
+  ],
+  "www.dau.mil": [
+    "other",
+    "214.25.9.84",
+    "US"
+  ],
+  "www.dcaa.mil": [
+    "other",
+    "139.45.207.81",
+    null
+  ],
+  "www.dcma.mil": [
+    "other",
+    "139.45.207.81",
+    null
+  ],
+  "www.defenselink.mil": [
+    "other",
+    "139.45.207.81",
+    null
+  ],
+  "www.dfas.mil": [
+    "other",
+    "139.45.207.81",
+    null
+  ],
+  "www.dia.mil": [
+    "GOVT",
+    "139.45.207.81",
+    null
+  ],
+  "www.disa.mil": [
+    "other",
+    "156.112.108.76",
+    "US"
+  ],
+  "www.dla.mil": [
+    "other",
+    "139.45.207.81",
+    null
+  ],
+  "www.dpaa.mil": [
+    "other",
+    "139.45.207.81",
+    null
+  ],
+  "www.dsca.mil": [
+    "other",
+    "52.85.47.15",
+    "US"
+  ],
+  "www.dss.mil": [
+    "other",
+    "139.45.207.81",
+    null
+  ],
+  "www.dtic.mil": [
+    "other",
+    "140.18.188.11",
+    "US"
+  ],
+  "www.dtra.mil": [
+    "other",
+    "139.45.207.81",
+    null
+  ],
+  "www.dw.com": [
+    "NEWS",
+    "2.23.140.98",
+    null
+  ],
+  "www.ea.com": [
+    "GAME",
+    "184.51.133.90",
+    "US"
+  ],
+  "www.ecequality.org": [
+    "LGBT",
+    "160.153.136.3",
+    "US"
+  ],
+  "www.eucom.mil": [
+    "other",
+    "20.140.147.202",
+    "US"
+  ],
+  "www.eurogrand.com": [
+    "GMB",
+    "139.45.207.104",
+    null
+  ],
+  "www.europacasino.com": [
+    "GMB",
+    "139.45.207.24",
+    null
+  ],
+  "www.facebook.com": [
+    "NEWS",
+    "157.240.205.35",
+    "US"
+  ],
+  "www.fgmnetwork.org": [
+    "PUBH",
+    "0.0.0.0",
+    "EMPT"
+  ],
+  "www.figleaves.com": [
+    "PROV",
+    "139.45.207.18",
+    null
+  ],
+  "www.france24.com": [
+    "NEWS",
+    "95.100.0.219",
+    null
+  ],
+  "www.frtib.gov": [
+    "other",
+    "74.113.206.127",
+    "US"
+  ],
+  "www.gambling.com": [
+    "GMB",
+    "188.114.99.140",
+    "US"
+  ],
+  "www.gatesfoundation.org": [
+    "PUBH",
+    "139.45.207.35",
+    null
+  ],
+  "www.gotgayporn.com": [
+    "PORN",
+    "188.114.99.140",
+    "US"
+  ],
+  "www.gov.cn": [
+    "GOVT",
+    "45.192.128.3",
+    "ZA"
+  ],
+  "www.health.mil": [
+    "other",
+    "214.10.40.15",
+    "US"
+  ],
+  "www.hidemyass.com": [
+    "ANON",
+    "104.66.117.76",
+    "NL"
+  ],
+  "www.hon.ch": [
+    "PUBH",
+    "129.195.247.84",
+    "CH"
+  ],
+  "www.imf.org": [
+    "ECON",
+    "139.45.207.50",
+    null
+  ],
+  "www.instagram.com": [
+    "POLR",
+    "157.240.205.174",
+    "US"
+  ],
+  "www.islamdoor.com": [
+    "REL",
+    "99.83.154.118",
+    "US"
+  ],
+  "www.jcs.mil": [
+    "other",
+    "139.45.207.81",
+    null
+  ],
+  "www.jpeocbrnd.osd.mil": [
+    "other",
+    "139.45.207.81",
+    null
+  ],
+  "www.jsf.mil": [
+    "GOVT",
+    "209.22.51.13",
+    "US"
+  ],
+  "www.kurtuluscephesi.com": [
+    "MILX",
+    "185.107.56.52",
+    "NL"
+  ],
+  "www.lanacion.com.ar": [
+    "NEWS",
+    "128.75.237.123",
+    "RU"
+  ],
+  "www.linkedin.com": [
+    "GRP",
+    "13.107.42.14",
+    "US"
+  ],
+  "www.livejournal.com": [
+    "HOST",
+    "81.19.74.0",
+    "RU"
+  ],
+  "www.logmein.com": [
+    "ANON",
+    "139.45.207.17",
+    null
+  ],
+  "www.messenger.com": [
+    "COMT",
+    "157.240.205.1",
+    "US"
+  ],
+  "www.mnr.gov.cn": [
+    "GOVT",
+    "163.171.140.79",
+    "NL"
+  ],
+  "www.mormon.org": [
+    "HUMR",
+    "104.75.81.87",
+    "NL"
+  ],
+  "www.msftncsi.com": [
+    "CTRL",
+    "188.43.78.35",
+    "RU"
+  ],
+  "www.nationalguard.mil": [
+    "other",
+    "139.45.207.81",
+    null
+  ],
+  "www.nato.int": [
+    "GOVT",
+    "139.45.207.17",
+    null
+  ],
+  "www.navy.mil": [
+    "GOVT",
+    "184.85.158.250",
+    "US"
+  ],
+  "www.nazi-lauck-nsdapao.com": [
+    "HATE",
+    "178.218.88.14",
+    "RU"
+  ],
+  "www.nbc.com": [
+    "NEWS",
+    "92.122.108.169",
+    null
+  ],
+  "www.newnownext.com": [
+    "LGBT",
+    "128.75.237.41",
+    "RU"
+  ],
+  "www.nga.mil": [
+    "other",
+    "52.85.47.103",
+    "US"
+  ],
+  "www.northcom.mil": [
+    "other",
+    "139.45.207.81",
+    null
+  ],
+  "www.nro.gov": [
+    "other",
+    "139.45.207.81",
+    null
+  ],
+  "www.pacom.mil": [
+    "GOVT",
+    "139.45.207.81",
+    null
+  ],
+  "www.pfpa.mil": [
+    "other",
+    "139.45.207.81",
+    null
+  ],
+  "www.phenoelit.org": [
+    "HACK",
+    "0.0.0.0",
+    "EMPT"
+  ],
+  "www.pinterest.com": [
+    "MMED",
+    "92.122.108.253",
+    null
+  ],
+  "www.pmi.com": [
+    "ALDR",
+    "104.85.184.114",
+    "NL"
+  ],
+  "www.quantico.marines.mil": [
+    "NEWS",
+    "184.51.225.117",
+    "US"
+  ],
+  "www.quora.com": [
+    "COMT",
+    "151.101.1.2",
+    "US"
+  ],
+  "www.rfa.org": [
+    "NEWS",
+    "184.51.231.123",
+    "US"
+  ],
+  "www.rferl.org": [
+    "HUMR",
+    "184.51.232.147",
+    "US"
+  ],
+  "www.sbs.com.au": [
+    "NEWS",
+    "92.122.109.28",
+    null
+  ],
+  "www.socom.mil": [
+    "GOVT",
+    "52.61.85.77",
+    "US"
+  ],
+  "www.southcom.mil": [
+    "GOVT",
+    "139.45.207.81",
+    null
+  ],
+  "www.spotify.com": [
+    "CULTR",
+    "35.186.224.25",
+    "US"
+  ],
+  "www.stratcom.mil": [
+    "GOVT",
+    "139.45.207.81",
+    null
+  ],
+  "www.teenhealthfx.com": [
+    "XED",
+    "198.140.183.58",
+    "US"
+  ],
+  "www.urduvoa.com": [
+    "NEWS",
+    "184.51.232.150",
+    "US"
+  ],
+  "www.usafa.af.mil": [
+    "GOVT",
+    "184.85.154.19",
+    "US"
+  ],
+  "www.usaid.gov": [
+    "GOVT",
+    "184.51.236.189",
+    "US"
+  ],
+  "www.uscg.mil": [
+    "GOVT",
+    "104.75.71.16",
+    "NL"
+  ],
+  "www.usmc.mil": [
+    "other",
+    "184.51.225.117",
+    "US"
+  ],
+  "www.ustranscom.mil": [
+    "other",
+    "214.3.16.180",
+    "US"
+  ],
+  "www.usuhs.mil": [
+    "other",
+    "35.201.81.45",
+    null
+  ],
+  "www.voanews.com": [
+    "ENV",
+    "184.51.232.150",
+    "US"
+  ],
+  "www.volcanomail.com": [
+    "COMT",
+    "0.0.0.0",
+    "EMPT"
+  ],
+  "www.wetplace.com": [
+    "PORN",
+    "82.192.82.228",
+    "NL"
+  ],
+  "www.whs.mil": [
+    "other",
+    "184.85.158.249",
+    "US"
+  ],
+  "www.wordreference.com": [
+    "COMT",
+    "138.201.122.174",
+    "DE"
+  ],
+  "www.yahoo.com": [
+    "NEWS",
+    "87.248.100.215",
+    "GB"
+  ],
+  "www.youporn.com": [
+    "PORN",
+    "66.254.114.79",
+    "US"
+  ],
+  "xiaohongshu.com": [
+    "other",
+    "101.33.11.106",
+    "CN"
+  ],
+  "xhamster.com": [
+    "PORN",
+    "104.18.155.3",
+    "US"
+  ],
+  "youjizz.com": [
+    "PORN",
+    "66.254.114.242",
+    "US"
+  ],
+  "zhipin.com": [
+    "other",
+    "39.96.33.114",
+    "CN"
+  ],
+  "zoom.us": [
+    "COMT",
+    "192.204.15.222",
+    "US"
+  ]
+}
