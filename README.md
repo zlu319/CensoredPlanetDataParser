@@ -32,7 +32,18 @@ Note `histogram.py` can be run on the results of `Analyze-with-ip.py`. This tool
 * `fisher-test.py` is an interactive python tool to help you run [Fisher's Exact Test](https://en.wikipedia.org/wiki/Fisher%27s_exact_test) on large numbers that Excel/GNUmeric/LibreOffice-Calc/Google-Sheets disallows in the `COMB()` or `FACT()` functions.
 
 ## Pipeline Stage 0: Category Name Extraction (the output of this stage, site_cat.json, is important for stages 2 and 3)
-* Category name extraction file (global_csv.py)
-* The source file (global.csv from OONI/CitizenLab)
+
+### global.csv (only for initial testing, not used!)
+* Category name extraction file `global_csv.py`
+* The source file (`global.csv` from OONI/CitizenLab)
 * and the result json files (cat_names is category names; site_cat is the mapping of site to category)
 both are easily parsable into python dicts
+
+
+# all .csv files from OONI/CitizenLab (the mapping of site -> category that we actually use)
+* Category name extraction file `extract_csv.py`
+* The source files (all site -> category mapping `.csv` files from OONI/CitizenLab)
+* and the result json files (`cat_names.json` is category names; `site_cat.json` is the mapping of site to category for all files)
+both are easily parsable into python dicts
+
+The `site_cat.json` file used here is the important output used for stages 2 and 3, and included in the root of the github repo.
