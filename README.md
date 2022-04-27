@@ -40,7 +40,7 @@ Note `histogram.py` can be run on the results of `Analyze-with-ip.py`. This tool
 both are easily parsable into python dicts
 
 
-# all .csv files from OONI/CitizenLab (the mapping of site -> category that we actually use)
+### all .csv files from OONI/CitizenLab (the mapping of site -> category that we actually use)
 * Category name extraction file `extract_csv.py`
 * The source files (all site -> category mapping `.csv` files from OONI/CitizenLab)
 * and the result json files (`cat_names.json` is category names; `site_cat.json` is the mapping of site to category for all files)
