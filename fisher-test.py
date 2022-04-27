@@ -3,7 +3,18 @@
 # requires at least python 3.8 for this function
 from math import comb
 
+usage = """
+Fisher Example
+
+                Greeks    Romans      Row Total
+Like Caesar       a         b           a + b
+Hate Caesar       c         d           c + d
+Column Total    a + c     b + d     a + b + c + d (=n)
+"""
+
+
 print("--- This Program Conducts Fisher's Exact Test with large numbers ---")
+print(usage)
 
 input_str = input("Please input a, b, c, d separated by commas: ")
 abcd_vals = [int(x.strip()) for x in input_str.split(',')]
