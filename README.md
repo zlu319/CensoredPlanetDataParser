@@ -1,19 +1,25 @@
 # CensoredPlanetDataParser
-A Data Parser for the Censored Planet security monitoring project
+A Data Parser for the Censored Planet security monitoring project: Satellite Dataset Only
 
-## Usage: extract-script.py or extract-script-resilient.py
+## Pipeline Stage 1
+### Usage: extract-script.py or extract-script-resilient.py
 * Clone this file to the directory you want to test in  
 * add directories: raw, us, russia  
 * put downloaded files in raw and then run
 
-## Usage: Analyze.py (use Analyze-with-ip.py instead to use the next stage in the pipeline)
+
+## Pipeline Stage 2
+### Usage: Analyze.py (use Analyze-with-ip.py instead to use the next stage in the pipeline)
 * Clone this file to the directory you want to analyze in.
 * make sure you include the `site_cat.json` file in the same directory as Analyze.py
 * add directories: samples, outputs
 * copy `russia_april_data.txt` to `samples/` (replace `russia_april_data.txt` with whatever **single** file you are analyzing right now. **Do it for one country and one month at a time**)
 * `python3 Analyze.py`
 
-## Usage: censored-lookup.py (don't use the limited version; we will lose API accesses)
+Note `histogram.py` can be run on the results of `Analyze-with-ip.py`. This tool will calculate the statistics of censored and uncensored websites.
+
+## Pipeline Stage 3
+### Usage: censored-lookup.py (don't use the limited version; we will lose API accesses)
 * Clone this file into the directory you want to analyze on
 * add directories: `summary-with-ip` (for input data) and `censored-outputs` (for output data)
 * Rename the output files from the `outputs` directory in the previous pipeline stage (Analyze-with-ip.py) to the following format:
@@ -22,8 +28,10 @@ A Data Parser for the Censored Planet security monitoring project
 * `python3 censored-lookup.py`
 * Results of IP geolocation will be in `censored-outputs`.
 
+## Statistical Analysis Tools
+* `fisher-test.py` is an interactive python tool to help you run [Fisher's Exact Test](https://en.wikipedia.org/wiki/Fisher%27s_exact_test) on large numbers that Excel/GNUmeric/LibreOffice-Calc/Google-Sheets disallows in the `COMB()` or `FACT()` functions.
 
-## Category Name Extraction
+## Pipeline Stage 0: Category Name Extraction (the output of this stage, site_cat.json, is important for stages 2 and 3)
 * Category name extraction file (global_csv.py)
 * The source file (global.csv from OONI/CitizenLab)
 * and the result json files (cat_names is category names; site_cat is the mapping of site to category)
